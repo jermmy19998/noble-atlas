@@ -9,18 +9,14 @@ name:
   pronunciation: ''
   pronouns: ''
 postnominals: []
-status:
-  icon: "active"
-role: Data Analyst and Machine Learning Practitioner
+role: Deep Learning Algorithm Engineer
 bio: |
   I focus on machine learning projects in healthcare imaging and environmental
   monitoring. My recent work includes medical imaging competitions on Kaggle,
   such as Yale/UNC-CH Geophysical Waveform Inversion (Silver Medal) and
   RSNA Intracranial Aneurysm Detection (Bronze Medal, solo).
 
-affiliations:
-  - name: Xuzhou Chaoyue Environmental Protection Technology Co., Ltd.
-    url: ""
+affiliations: []
 
 links:
   - icon: at-symbol
@@ -37,28 +33,9 @@ interests:
   - Machine Learning Engineering
   - Data Analysis and Modeling
 
-education:
-  - degree: Bachelor of Economics
-    institution: YeungNam University (Korea)
-    start: 2019-03-01
-    end: 2021-08-31
-    summary: |
-      Major: Economics and Finance. GPA: 84.7/100.
-  - degree: Course Certificate
-    institution: University of Michigan
-    start: 2023-09-01
-    end: 2023-09-30
-    summary: |
-      Introduction to Data Science in Python.
+education: []
 
 experience:
-  - role: Data Analyst
-    org: Xuzhou Chaoyue Environmental Protection Technology Co., Ltd.
-    start: 2022-12-01
-    summary: |
-      Organized data collection and preprocessing for environmental monitoring.
-      Built machine learning models for water quality classification and
-      pollution source identification in Xuzhou rivers.
   - role: Data Analyst
     org: Jiangsu Meishi Creative Design Co., Ltd.
     start: 2021-09-01
