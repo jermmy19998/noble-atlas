@@ -1,4 +1,4 @@
-﻿main:
+main:
   - name: Home
     url: /
     weight: 10
