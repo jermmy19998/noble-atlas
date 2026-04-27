@@ -4,14 +4,14 @@ en:
 
 zh:
   locale: zh-Hans
-  title: Zhuheng Zan (ZH)
+  title: ???
   params:
-    description: Chinese version of Zhuheng Zan profile.
+    description: ????????????????????????
   menu:
     main:
-      - name: Home (ZH)
+      - name: ??
         url: /
         weight: 10
-      - name: Experience (ZH)
+      - name: ??
         url: experience/
         weight: 20

@@ -1,5 +1,5 @@
 ---
-title: 'Experience (ZH)'
+title: '??'
 date: 2023-10-24
 type: landing
 
@@ -11,18 +11,18 @@ sections:
     content:
       username: me
     design:
-      date_format: 'January 2006'
+      date_format: '2006?01?'
       is_education_first: false
   - block: resume-skills
     content:
-      title: Skills (ZH)
+      title: ??
       username: me
   - block: resume-awards
     content:
-      title: Awards (ZH)
+      title: ??
       username: me
   - block: resume-languages
     content:
-      title: Languages (ZH)
+      title: ??
       username: me
 ---

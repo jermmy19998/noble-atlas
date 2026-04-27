@@ -10,12 +10,12 @@ sections:
       username: me
       text: ''
       button:
-        text: Download CV
+        text: ????
         url: uploads/resume.pdf
       headings:
-        about: About (ZH)
+        about: ???
         education: ''
-        interests: Interests (ZH)
+        interests: ????
     design:
       background:
         gradient_mesh:
@@ -28,26 +28,26 @@ sections:
 
   - block: markdown
     content:
-      title: About Me (ZH)
+      title: ????
       subtitle: ''
       text: |-
-        This is the Chinese-language version page.
+        ???????????????????????????????????
 
-        Recent competition results:
-        - Yale/UNC-CH Geophysical Waveform Inversion: Silver Medal (Top 3%)
-        - RSNA Intracranial Aneurysm Detection: Bronze Medal (89/1147, Solo)
-        - UBC-OCEAN: Bronze Medal (96/1326)
+        ???????
+        - Yale/UNC-CH Geophysical Waveform Inversion????Top 3%?
+        - RSNA Intracranial Aneurysm Detection????89/1147?Solo?
+        - UBC-OCEAN????96/1326?
     design:
       columns: '1'
 
   - block: markdown
     content:
-      title: Contact (ZH)
+      title: ????
       subtitle: ''
       text: |-
-        - Email: [Wacto1998@gmail.com](mailto:Wacto1998@gmail.com)
-        - Kaggle: [seeingtimes](https://www.kaggle.com/seeingtimes)
-        - GitHub: [jermmy19998](https://github.com/jermmy19998)
+        - ???[Wacto1998@gmail.com](mailto:Wacto1998@gmail.com)
+        - Kaggle?[seeingtimes](https://www.kaggle.com/seeingtimes)
+        - GitHub?[jermmy19998](https://github.com/jermmy19998)
     design:
       columns: '1'
 ---
